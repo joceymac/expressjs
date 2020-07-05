@@ -14,7 +14,7 @@ npm i
 
 To start the applications, there are three options:
 
-1. Launch express server with default port (=3000):
+1. Launch express server with default port (=4000):
 
 ```javascript
 npm start
@@ -23,7 +23,7 @@ npm start
 2. Launch express server with environment configurable port:
 
 ```
-PORT=3010 npm start
+PORT=4000 npm start
 ```
 
 
